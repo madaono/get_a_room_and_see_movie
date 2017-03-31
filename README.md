@@ -1,5 +1,4 @@
-# vue-one-more
-
+# get a room and see a movie(vue-vuex-vueRouter-webpack-es6)
 > A Vue.js project
 
 ## Build Setup
